@@ -13,6 +13,7 @@ private:
     string prenume;
     int cod_pin;
     
+    
 
 public:
     ContBancar(string n , string p , double bal, int cp) : nume(n), prenume(p), balanta(bal), cod_pin(cp) {}
