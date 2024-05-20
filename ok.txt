@@ -1,3 +1,0 @@
-g++ Main.cpp InterfataBancara.cpp Utilizator.cpp ContBancar.cpp ManagementBanca.cpp -o Main
-
-.\Main
